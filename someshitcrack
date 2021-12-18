@@ -1,3 +1,4 @@
+-- crack by kremmz
 getgenv().SilentAimbotKey = 'b'; getgenv().AimlockKey = 'q';  _G.WEBHOOK_URL = 'https://canary.discord.com/api/webhooks/921616328807317574/ZDXUeNCt8JKlL8PA2aECtkRO80j53CS-RtJaxk9Rud-7jvCZdmsU01I4CErbolzBBfMv';
 
 _G.PART = "UpperTorso"
